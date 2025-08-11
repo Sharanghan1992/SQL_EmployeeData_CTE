@@ -1,0 +1,6 @@
+JobTitleID,TitleName,SalaryBand,MinSalary,MaxSalary
+1,Analyst,Band 1,50000,80000
+2,Manager,Band 2,70000,120000
+3,Engineer,Band 3,80000,140000
+4,Consultant,Band 2,60000,100000
+5,Technician,Band 1,45000,70000

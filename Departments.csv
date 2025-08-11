@@ -1,0 +1,6 @@
+DepartmentID,DepartmentName,Location,ManagerID
+1,Finance,Sydney,101
+2,HR,Melbourne,102
+3,Engineering,Brisbane,103
+4,Sales,Perth,104
+5,Operations,Adelaide,105
